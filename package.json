@@ -1,0 +1,13 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+     "test": "node test-runner.js",
+     "list-folders": "node list-folders.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
