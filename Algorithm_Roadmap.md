@@ -8,15 +8,15 @@
 | 4 | Recursion Tree | Medium | [ ] Not Done |
 | 5 | Tail Recursion | Low | [ ] Not Done |
 | 6 | Divide and Conquer | Medium | [ ] Not Done |
-| 7 | Linear Search | Low | [ ] Not Done |
-| 8 | Binary Search | Medium | [ ] Not Done |
+| 7 | Linear Search | Low | [✅] Done |
+| 8 | Binary Search | Medium | [✅] Done |
 | 9 | Binary Search Variations | Medium | [ ] Not Done |
 | 10 | Lower Bound / Upper Bound | Medium | [ ] Not Done |
 | 11 | Search on Answer | Hard | [ ] Not Done |
-| 12 | Bubble Sort | Low | [ ] Not Done |
-| 13 | Selection Sort | Low | [ ] Not Done |
-| 14 | Insertion Sort | Low | [ ] Not Done |
-| 15 | Merge Sort | Medium | [ ] Not Done |
+| 12 | Bubble Sort | Low | [✅] Done |
+| 13 | Selection Sort | Low | [✅] Done |
+| 14 | Insertion Sort | Low | [ ] Done |
+| 15 | Merge Sort | Medium | [✅] Not Done |
 | 16 | Quick Sort | Medium | [ ] Not Done |
 | 17 | Heap Sort | Medium | [ ] Not Done |
 | 18 | Counting Sort | Medium | [ ] Not Done |
