@@ -4,20 +4,20 @@
 |---:|---|---|---|
 | 1 | Big O — Time Complexity | Medium | [ ] Not Done |
 | 2 | Big O — Space Complexity | Medium | [ ] Not Done |
-| 3 | Recursion Basics | Medium | [ ] Not Done |
-| 4 | Recursion Tree | Medium | [ ] Not Done |
-| 5 | Tail Recursion | Low | [ ] Not Done |
-| 6 | Divide and Conquer | Medium | [ ] Not Done |
+| 3 | Recursion Basics | Medium | [✅] Done |
+| 4 | Recursion Tree | Medium | [✅] Done |
+| 5 | Tail Recursion | Low | [✅] Done |
+| 6 | Divide and Conquer | Medium | [✅] Done |
 | 7 | Linear Search | Low | [✅] Done |
 | 8 | Binary Search | Medium | [✅] Done |
 | 9 | Binary Search Variations | Medium | [ ] Not Done |
-| 10 | Lower Bound / Upper Bound | Medium | [ ] Not Done |
-| 11 | Search on Answer | Hard | [ ] Not Done |
+| 10 | Lower Bound / Upper Bound | Medium | [✅] Done |
+| 11 | Search on Answer | Hard | [✅] Not Done |
 | 12 | Bubble Sort | Low | [✅] Done |
 | 13 | Selection Sort | Low | [✅] Done |
-| 14 | Insertion Sort | Low | [ ] Done |
-| 15 | Merge Sort | Medium | [✅] Not Done |
-| 16 | Quick Sort | Medium | [ ] Not Done |
+| 14 | Insertion Sort | Low | [✅] Done |
+| 15 | Merge Sort | Medium | [✅] Done |
+| 16 | Quick Sort | Medium | [✅] Done |
 | 17 | Heap Sort | Medium | [ ] Not Done |
 | 18 | Counting Sort | Medium | [ ] Not Done |
 | 19 | Radix Sort | Medium | [ ] Not Done |
