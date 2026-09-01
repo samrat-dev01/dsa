@@ -22,7 +22,7 @@
 | 18 | Counting Sort | Medium | [ ] Not Done |
 | 19 | Radix Sort | Medium | [ ] Not Done |
 | 20 | Bucket Sort | Medium | [ ] Not Done |
-| 21 | Two Pointers | Medium | [ ] Not Done |
+| 21 | Two Pointers | Medium | [✅] Done |
 | 22 | Sliding Window | Medium | [ ] Not Done |
 | 23 | Fast and Slow Pointers | Medium | [ ] Not Done |
 | 24 | Prefix Sum | Low | [ ] Not Done |
