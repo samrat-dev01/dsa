@@ -1,5 +1,6 @@
-export class MyNode {
+export class ListNode {
   value = null;
+  /** @type {ListNode} */
   next = null;
 
   constructor(value, next = null) {
@@ -14,7 +15,7 @@ export class LinkedList {
   size = 0;
 
   append(value) {
-    const node = new MyNode(value);
+    const node = new ListNode(value);
 
     if (!this.head) this.head = node;
 
@@ -28,7 +29,7 @@ export class LinkedList {
   }
 
   prepend(value) {
-    const node = new MyNode(value);
+    const node = new ListNode(value);
     if (this.head) node.next = this.head;
     this.head = node;
     if (!this.tail) this.tail = node;

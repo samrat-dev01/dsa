@@ -10,9 +10,9 @@
 | 6 | Divide and Conquer | Medium | [✅] Done |
 | 7 | Linear Search | Low | [✅] Done |
 | 8 | Binary Search | Medium | [✅] Done |
-| 9 | Binary Search Variations | Medium | [ ] Not Done |
+| 9 | Binary Search Variations | Medium | [✅] Done |
 | 10 | Lower Bound / Upper Bound | Medium | [✅] Done |
-| 11 | Search on Answer | Hard | [✅] Not Done |
+| 11 | Search on Answer | Hard | [✅] Done |
 | 12 | Bubble Sort | Low | [✅] Done |
 | 13 | Selection Sort | Low | [✅] Done |
 | 14 | Insertion Sort | Low | [✅] Done |
@@ -24,8 +24,8 @@
 | 20 | Bucket Sort | Medium | [ ] Not Done |
 | 21 | Two Pointers | Medium | [✅] Done |
 | 22 | Sliding Window | Medium | [✅] Done |
-| 23 | Fast and Slow Pointers | Medium | [ ] Not Done |
-| 24 | Prefix Sum | Low | [ ] Not Done |
+| 23 | Fast and Slow Pointers | Medium | [✅] Done |
+| 24 | Prefix Sum | Low | [✅] Done |
 | 25 | Difference Array | Medium | [ ] Not Done |
 | 26 | Kadane's Algorithm | Medium | [ ] Not Done |
 | 27 | Dutch National Flag | Medium | [ ] Not Done |
@@ -34,12 +34,12 @@
 | 30 | Spiral Matrix | Medium | [ ] Not Done |
 | 31 | Reverse Linked List | Medium | [ ] Not Done |
 | 32 | Reverse Doubly Linked List | Medium | [ ] Not Done |
-| 33 | Find Middle Node | Low | [ ] Not Done |
-| 34 | Detect Cycle | Medium | [ ] Not Done |
-| 35 | Find Cycle Start | Medium | [ ] Not Done |
-| 36 | Remove Cycle | Medium | [ ] Not Done |
-| 37 | Merge Two Sorted Lists | Medium | [ ] Not Done |
-| 38 | Remove Nth Node | Medium | [ ] Not Done |
+| 33 | Find Middle Node | Low | [✅] Done |
+| 34 | Detect Cycle | Medium | [✅] Done |
+| 35 | Find Cycle Start | Medium | [✅] Done |
+| 36 | Remove Cycle | Medium | [✅] Done |
+| 37 | Merge Two Sorted Lists | Medium | [✅] Done |
+| 38 | Remove Nth Node | Medium | [✅] Done |
 | 39 | Palindrome Linked List | Medium | [ ] Not Done |
 | 40 | Intersection of Linked Lists | Medium | [ ] Not Done |
 | 41 | Balanced Parentheses | Low | [ ] Not Done |

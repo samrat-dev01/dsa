@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import { LinkedList, MyNode } from './linked-list.js';
+import { LinkedList, ListNode } from './linked-list.js';
 
 function values(list) {
   const result = [];
@@ -27,19 +27,19 @@ function createList(items) {
 }
 
 /* =====================================================
-   MyNode
+   ListNode
 ===================================================== */
 
-test('MyNode: creates a node with value and null next', () => {
-  const node = new MyNode(10);
+test('ListNode: creates a node with value and null next', () => {
+  const node = new ListNode(10);
 
   assert.equal(node.value, 10);
   assert.equal(node.next, null);
 });
 
-test('MyNode: accepts next node', () => {
-  const next = new MyNode(20);
-  const node = new MyNode(10, next);
+test('ListNode: accepts next node', () => {
+  const next = new ListNode(20);
+  const node = new ListNode(10, next);
 
   assert.equal(node.value, 10);
   assert.equal(node.next, next);

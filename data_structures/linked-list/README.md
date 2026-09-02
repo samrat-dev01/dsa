@@ -3,7 +3,7 @@
 A from-scratch singly linked list in JavaScript with `head`, `tail`, and `size` tracking.
 
 ```javascript
-export class MyNode {
+export class ListNode {
   value = null;
   next = null;
 }
@@ -27,10 +27,10 @@ head                              tail
 
 ---
 
-## 1. `MyNode` — the building block
+## 1. `ListNode` — the building block
 
 ```javascript
-new MyNode(value, next = null)
+new ListNode(value, next = null)
 ```
 
 Each node is just a box holding a `value` and a pointer (`next`) to the following node. `next` defaults to `null`, meaning "I'm not connected to anything yet."
@@ -47,7 +47,7 @@ Each node is just a box holding a `value` and a pointer (`next`) to the followin
 
 ```javascript
 append(value) {
-  const node = new MyNode(value);
+  const node = new ListNode(value);
 
   if (!this.head) this.head = node;
 
@@ -111,7 +111,7 @@ head                       tail
 
 ```javascript
 prepend(value) {
-  const node = new MyNode(value);
+  const node = new ListNode(value);
   if (this.head) node.next = this.head;
   this.head = node;
   if (!this.tail) this.tail = node;

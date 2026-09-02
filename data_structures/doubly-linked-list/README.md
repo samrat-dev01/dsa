@@ -35,7 +35,7 @@ represents that two-way link throughout these diagrams.
 ```javascript
 new DoublyLinkedNode(val)
 ```
-Three slots: `prev` (previous node or `null`), `value`, `next` (following node or `null`). Compared to the singly linked version's `MyNode`, this is the one structural addition that makes everything else in this file possible.
+Three slots: `prev` (previous node or `null`), `value`, `next` (following node or `null`). Compared to the singly linked version's `ListNode`, this is the one structural addition that makes everything else in this file possible.
 
 ```
      ┌──────┬───────┬──────┐
