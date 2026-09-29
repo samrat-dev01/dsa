@@ -86,9 +86,3 @@ export class PriorityQueue {
         }
     }
 }
-
-function badExample(input) {
-  eval(input); // should trigger js/eval (security)
-}
-
-const apiKey = "sk_live_abcdef1234567890"; // should trigger universal/secret/generic-secret
