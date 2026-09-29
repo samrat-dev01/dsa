@@ -24,9 +24,9 @@ jobs:
 
       - uses: actions/checkout@v4
         with:
-          repository: samrat-dev01/pr-reviewer
+          repository: samrat-dev01/github-pr-reviewer
           ref: v1.0.0
-          path: .pr-reviewer
+          path: .github-pr-reviewer
           # token: ${{ secrets.REVIEWER_REPO_TOKEN }}
 
       - uses: actions/setup-node@v4
@@ -34,10 +34,10 @@ jobs:
           node-version: 22
 
       - run: npm ci --ignore-scripts
-        working-directory: .pr-reviewer
+        working-directory: .github-pr-reviewer
 
       - run: npm run review:pr
-        working-directory: .pr-reviewer
+        working-directory: .github-pr-reviewer
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
